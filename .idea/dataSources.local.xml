@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - spring-book-shiro@localhost" uuid="8f591dd3-2a89-46ae-ac98-ac299c616418">
+      <secret-storage>master_key</secret-storage>
+      <user-name>minghang</user-name>
+      <schema-pattern>spring-book-shiro.*</schema-pattern>
+      <default-schemas>spring-book-shiro.*</default-schemas>
+    </data-source>
+  </component>
+</project>
